@@ -164,8 +164,8 @@ pre {
     margin-left: auto;
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
-    background-color: $background-color;
-    opacity: 0.8;
+//    background-color: $background-color;
+    background-color: #fdfdfdcc
     @extend %clearfix;
 
     @include media-query($on-laptop) {
