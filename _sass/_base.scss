@@ -166,7 +166,7 @@ pre {
     padding-left: $spacing-unit;
 //    background-color: $background-color;
 //    background-color: #fdfdfdcc;
-    background-color: rgba(253, 253, 253, 0.8)
+    background-color: rgba(253, 253, 253, 0.8);
     @extend %clearfix;
 
     @include media-query($on-laptop) {
