@@ -13,9 +13,9 @@
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    id="svg7584"
    version="1.1"
-   viewBox="0 0 210 297"
-   height="297mm"
-   width="210mm">
+   viewBox="0 0 507.99999 285.75001"
+   height="1080"
+   width="1920">
   <defs
      id="defs7578">
     <meshgradient
@@ -56,13 +56,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="493.56404"
-     inkscape:cy="843.52604"
+     inkscape:cx="1088.564"
+     inkscape:cy="505.53768"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
      showborder="false"
-     inkscape:snap-object-midpoints="false" />
+     inkscape:snap-object-midpoints="false"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata7581">
     <rdf:RDF>
@@ -92,7 +97,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      sodipodi:insensitive="true"
-     style="display:none">
+     style="display:none"
+     transform="translate(157.42708,78.176081)">
     <path
        style="opacity:1;fill:url(#meshgradient8412);fill-opacity:1;stroke:none;stroke-width:0.5451864;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -162.71875,-72.887501 h 508 V 212.8625 h -508 z"
@@ -102,9 +108,11 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Layer 2">
+     inkscape:label="Layer 2"
+     transform="translate(157.42708,78.176081)">
     <g
-       id="g12864">
+       id="g12864"
+       transform="matrix(1.0212766,0,0,1.0364683,3.3495149,-7.566677)">
       <path
          id="path12369"
          style="fill:none;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round"
@@ -597,7 +605,8 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g13062">
+       id="g13062"
+       transform="matrix(1.0212766,0,0,1.0364683,3.3495149,-7.566677)">
       <path
          inkscape:connector-curvature="0"
          d="m 264.31874,-67.595834 h 75.67084 L 79.639585,-68.125001 Z"
