@@ -5,4 +5,7 @@ permalink: /gallery
 ---
 
 
-Rendering
+Rendering...
+
+Logo Design1
+![](/assets/Logo2_black.png)

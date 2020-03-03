@@ -5,4 +5,4 @@ permalink: /academics
 ---
 
 
-Coming Soon
+Coming Soon...
