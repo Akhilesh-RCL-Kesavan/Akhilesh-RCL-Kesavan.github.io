@@ -16,7 +16,9 @@ dl, dd, ol, ul, figure {
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
-    background-image: url("/assets/Back1.svg");
+    background-image: url("/assets/Back2.svg");
+    background-repeat: no-repeat;
+    background-size: auto;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
