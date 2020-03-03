@@ -8,4 +8,4 @@ permalink: /gallery
 Rendering...
 
 Logo Design1
-![](/assets/Logo2_black.png)
+![](/assets/Logo2_Black.png)
