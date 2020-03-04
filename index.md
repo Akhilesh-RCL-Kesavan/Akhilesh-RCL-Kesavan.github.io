@@ -6,13 +6,13 @@ layout: default
 Hey everyone!!!! You must be wondering how did you end up here. It would appear you are curious enough to click on a link to know more about this guy Akhilesh Kesavan.
 </p>
 
-<!-- <style>
+<style>
   .act_image {max-width: 700px; max-height: 500px; border:  1px solid black; margin: 5px 10px 10px 5px}
 </style>
 <center>
   <img class='act_image' src="/assets/Selfie.jpeg" alt="Me">
-</center> -->
- ![](/assets/Selfie.jpeg "Me")
+</center>
+
 <p style="text-align: justify">
 Well of course I know him, He's me (Hoping you get the Star Wars meme reference), the guy in the photo (No not the guy in the background) about to dive into and relish that scrumptious looking sizzler. I am a final year dual degree student at The Indian Institute of Madras working with Dr <a href="https://home.iitm.ac.in/sinha/people/himanshu_sinha.html">Himanshu Sinha</a>  as a member of the <a href="https://home.iitm.ac.in/sinha/index.html">Systems Genetics Lab</a> . My work involves unravelling
 the mysteries around the infamous translator, the Ribosome, with the help of <em>Saccharomyces cerevisiae</em>.
