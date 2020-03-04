@@ -7,15 +7,14 @@ Hey everyone!!!!! You must be wondering how did you end up here. It would appear
 </p>
 
 <style>
-  .act_image {max-width: #{$content-width / 2}; max-height: 500px; border:  1px solid black; margin: 5px 10px 10px 5px}
+  .act_image {max-height: 500px; border:  1px solid black; margin: 5px 10px 10px 5px}
 </style>
 <center>
   <img class='act_image' src="/assets/Selfie.jpeg" alt="Me">
 </center>
 
 <p style="text-align: justify">
-Well of course I know him, He's me (Hoping you get the Star Wars meme reference), the guy in the photo (No not the guy in the background) about to dive into and relish that scrumptious looking sizzler. I am a final year dual degree student at The Indian Institute of Madras working with Dr <a href="https://home.iitm.ac.in/sinha/people/himanshu_sinha.html">Himanshu Sinha</a>  as a member of the <a href="https://home.iitm.ac.in/sinha/index.html">Systems Genetics Lab</a> . My work involves unravelling
-the mysteries around the infamous translator, the Ribosome, with the help of <em>Saccharomyces cerevisiae</em>.
+Well of course I know him, He's me (Hoping you get the Star Wars meme reference), the guy in the photo (No not the guy in the background) about to dive into and relish that scrumptious looking sizzler. I am a final year dual degree student at The Indian Institute of Madras working with Dr <a href="https://home.iitm.ac.in/sinha/people/himanshu_sinha.html">Himanshu Sinha</a>  as a member of the <a href="https://home.iitm.ac.in/sinha/index.html">Systems Genetics Lab</a>. My work involves unravelling the mysteries around the infamous translator, the Ribosome, with the help of <em>Saccharomyces cerevisiae</em>.
 </p>
 
 <p style="text-align: justify">
