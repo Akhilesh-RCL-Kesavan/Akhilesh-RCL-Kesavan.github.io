@@ -1,5 +1,4 @@
-import random
-def random_line(fname):
-    lines = open(fname).read().splitlines()
-    return random.choice(lines)
-print(random_line('assets/Quotes.txt'))
+lines = open('assets/Quotes.txt').read().splitlines()
+with open('quotes.txt', 'a') as out:
+    for line in lines:
+        out.write('\''+line+'\'\n')
