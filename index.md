@@ -23,7 +23,7 @@ A self proclaimed know it all with a constant feeling of not knowing enough, I s
 </p>
 
 <p style="text-align: justify">
-The most intriguing concept of life for me is modularity. What began as curiosity and excitement about the concept upon first hearing about Google's project ARA (RIP), now fascinates me with its abundance in nature. I wish to develop and maintain this ability to develop what appear to be small individual components that can be mixed and matched to generate something greater than themselves.
+The most intriguing concept of life for me is modularity. What began as curiosity and excitement about the concept upon first hearing about Google's project ARA (Rest In Pieces), now fascinates me with its abundance in nature. I wish to develop and maintain this ability to develop what appear to be small individual components that can be mixed and matched to generate something greater than themselves.
 </p>
 
 <p style="text-align: justify">
