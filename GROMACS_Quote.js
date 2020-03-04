@@ -13,7 +13,3 @@ getQuote = ->
   $('div').text(activeQuotes)
 
 getQuote()
-
-  e.preventDefault()
-
-  getQuote()
