@@ -597,6 +597,6 @@ totalQuotes = quotes.length
 
 # Get Quote
 function newQuote() {
-  var randomnumber = Math.floor((Math.random() * totalQuotes))
-  document.getElementById('quoteDisplay').innerHTML = quotes[randomnumber]
+  var randomNumber = Math.floor((Math.random() * totalQuotes));
+  document.getElementById('quoteDisplay').innerHTML = quotes[randomNumber];
 }
