@@ -3,13 +3,21 @@
 
   {% include head.html %}
 
-  <body>
+  <body onLoad="javascript:newQuote()">
 
     {% include header.html %}
 
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
+        <p style="text-align: center">
+        ***************************************
+        <br>
+          <div id="quoteDisplay"></div>
+          <script src="GROMACS_Quote.js"></script>
+        <br>
+        ***************************************
+        </p>
       </div>
     </div>
 
