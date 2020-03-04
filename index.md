@@ -30,14 +30,3 @@ The most intriguing concept of life for me is modularity. What began as curiosit
 <p style="text-align: justify">
 To quickly summarize, I am an hopeful biologist, part-time photographer, gamer (#DreamOG), knower of things, admirer of wibbly wobbly timey wimey stuff and most importantly DON'T BLINK!!!!
 </p>
-
-<p style="text-align: center">
-*************************************************************************
-<br>
-<div id="quoteDisplay">
-</div>
-<button onclick="newQuote()">Ne Quote</button>
-<script src="GROMACS_Quote.js"></script>
-<br>
-*************************************************************************
-</p>
