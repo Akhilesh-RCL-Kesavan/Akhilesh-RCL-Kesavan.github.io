@@ -14,7 +14,7 @@ Hey everyone!!!! You must be wondering how did you end up here. It would appear 
 </center>
 
 <p style="text-align: justify">
-Well of course I know him, He's me (Hoping you get the Star Wars meme reference), the guy in the photo (No not the guy in the background) about to dive into and relish that scrumptious looking sizzler. I am a final year dual degree student at The Indian Institute of Madras working with Dr [Himanshu Sinha](https://home.iitm.ac.in/sinha/people/himanshu_sinha.html) as a member of the [Systems Genetics Lab](https://home.iitm.ac.in/sinha/index.html). My work involves unravelling
+Well of course I know him, He's me (Hoping you get the Star Wars meme reference), the guy in the photo (No not the guy in the background) about to dive into and relish that scrumptious looking sizzler. I am a final year dual degree student at The Indian Institute of Madras working with Dr <a href:"https://home.iitm.ac.in/sinha/people/himanshu_sinha.html">Himanshu Sinha</a>  as a member of the <a href:"https://home.iitm.ac.in/sinha/index.html">Systems Genetics Lab</a> . My work involves unravelling
 the mysteries around the infamous translator, the Ribosome, with the help of <em>Saccharomyces cerevisiae</em>.
 </p>
 
