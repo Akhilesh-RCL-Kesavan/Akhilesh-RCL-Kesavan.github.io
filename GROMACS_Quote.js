@@ -14,7 +14,6 @@ getQuote = ->
 
 getQuote()
 
-$('button').on 'click', (e) ->
   e.preventDefault()
 
   getQuote()
