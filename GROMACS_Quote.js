@@ -5,11 +5,7 @@ var quotes = fs.readFileSync('assets/Quotes.txt').toString().split("\n");
 totalQuotes = quotes.length
 
 # Get Quote
-getQuote = ->
-  # Gets random image from array
-  activeQuotes = quotes[Math.floor((Math.random() * totalQuotes))]
-
-  # Changes background of div
-  $('div').text(activeQuotes)
-
-getQuote()
+function newQuote() {
+  var randomnumber = Math.floor((Math.random() * totalQuotes))
+  document.getElementById('quoteDisplay').innerHTML = quotes[randomnumber]
+}
