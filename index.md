@@ -3,11 +3,11 @@ layout: default
 ---
 
 <p style="text-align: justify">
-Hey everyone!!!! You must be wondering how did you end up here. It would appear you are curious enough to click on a link to know more about this guy Akhilesh Kesavan.
+Hey everyone!!!!! You must be wondering how did you end up here. It would appear you are curious enough to click on a link to know more about this guy Akhilesh Kesavan.
 </p>
 
 <style>
-  .act_image {max-width: #{$$content-width / 2}; max-height: 500px; border:  1px solid black; margin: 5px 10px 10px 5px}
+  .act_image {max-width: #{$content-width / 2}; max-height: 500px; border:  1px solid black; margin: 5px 10px 10px 5px}
 </style>
 <center>
   <img class='act_image' src="/assets/Selfie.jpeg" alt="Me">
