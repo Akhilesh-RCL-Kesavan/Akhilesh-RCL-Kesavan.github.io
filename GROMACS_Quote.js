@@ -1,5 +1,5 @@
 var fs = require('fs');
-var quotes = fs.readFileSync('/assets/Quotes.txt').toString().split("\n");
+var quotes = fs.readFileSync('Quotes.txt').toString().split("\n");
 
 # Counts total images
 totalQuotes = quotes.length
