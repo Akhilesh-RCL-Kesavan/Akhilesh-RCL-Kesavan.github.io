@@ -7,7 +7,7 @@ Hey everyone!!!! You must be wondering how did you end up here. It would appear 
 </p>
 
 <style>
-  .act_image {max-width: 700px; max-height: 500px; border:  1px solid black; margin: 5px 10px 10px 5px}
+  .act_image {max-width: #{$$content-width / 2}; max-height: 500px; border:  1px solid black; margin: 5px 10px 10px 5px}
 </style>
 <center>
   <img class='act_image' src="/assets/Selfie.jpeg" alt="Me">
@@ -27,5 +27,5 @@ The most intriguing concept of life for me is modularity. What began as curiosit
 </p>
 
 <p style="text-align: justify">
-To quickly summerize, I am an hopeful biologist, part-time photographer, gamer (#DreamOG), knower of things, admirer of wibbly wobbly timey wimey stuff and most importantly DON'T BLINK!!!!
+To quickly summarize, I am an hopeful biologist, part-time photographer, gamer (#DreamOG), knower of things, admirer of wibbly wobbly timey wimey stuff and most importantly DON'T BLINK!!!!
 </p>
