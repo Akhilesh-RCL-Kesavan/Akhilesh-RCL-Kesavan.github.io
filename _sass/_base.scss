@@ -167,7 +167,7 @@ pre {
 //    background-color: $background-color;
 //    background-color: #fdfdfdcc;
     background-color: rgba(253, 253, 253, 0.8);
-    box-shadow: 5px 10px;
+    box-shadow: 5px 10px rgba(4, 4, 4, 0.8);
     @extend %clearfix;
 
     @include media-query($on-laptop) {
