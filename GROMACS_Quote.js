@@ -592,10 +592,8 @@ var quotes = ['If You Want Something Done You Have to Do It Yourself_(Highlander
 'You could give Aristotle a tutorial. And you could thrill him to the core of his being. Such is the privilege of living after Newton, Darwin, Einstein, Planck, Watson, Crick and their colleagues._(Richard Dawkins)',
 ]
 
-# Counts total images
 totalQuotes = quotes.length
 
-# Get Quote
 function newQuote() {
   var randomNumber = Math.floor((Math.random() * totalQuotes));
   document.getElementById('quoteDisplay').innerHTML = quotes[randomNumber];
