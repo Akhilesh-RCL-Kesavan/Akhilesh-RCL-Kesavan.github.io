@@ -34,12 +34,7 @@ To quickly summarize, I am an hopeful biologist, part-time photographer, gamer (
 <p style="text-align: center">
 *************************************************************************
 <br>
-<<engine='python', engine.path='python3'>>=
-import random
-def random_line(fname):
-    lines = open(fname).read().splitlines()
-    return random.choice(lines)
-print(random_line('assets/Quotes.txt'))
+
 <br>
 *************************************************************************
 </p>
