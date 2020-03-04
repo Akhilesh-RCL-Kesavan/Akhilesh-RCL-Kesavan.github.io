@@ -36,6 +36,7 @@ To quickly summarize, I am an hopeful biologist, part-time photographer, gamer (
 <br>
 <div id="quoteDisplay">
 </div>
+<button on click="newQuote()">Neq Quote</button>
 <script type="text/javascript" src="GROMACS_Quote.js"></script>
 <br>
 *************************************************************************
