@@ -30,3 +30,16 @@ The most intriguing concept of life for me is modularity. What began as curiosit
 <p style="text-align: justify">
 To quickly summarize, I am an hopeful biologist, part-time photographer, gamer (#DreamOG), knower of things, admirer of wibbly wobbly timey wimey stuff and most importantly DON'T BLINK!!!!
 </p>
+
+<p style="text-align: center">
+*************************************************************************
+<br>
+<<engine='python', engine.path='python3'>>=
+import random
+def random_line(fname):
+    lines = open(fname).read().splitlines()
+    return random.choice(lines)
+print(random_line('assets/Quotes.txt'))
+<br>
+*************************************************************************
+</p>
