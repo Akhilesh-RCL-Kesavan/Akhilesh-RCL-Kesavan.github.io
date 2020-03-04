@@ -53,21 +53,23 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35355339"
-     inkscape:cx="-63.347393"
-     inkscape:cy="493.72065"
+     inkscape:cx="-63.347112"
+     inkscape:cy="493.7209"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
-     showborder="false"
+     showborder="true"
      inkscape:snap-object-midpoints="false"
      units="px"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:showpageshadow="false" />
   <metadata
      id="metadata7581">
     <rdf:RDF>
@@ -76,7 +78,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
     <rdf:RDF>
@@ -98,7 +100,7 @@
      id="layer1"
      sodipodi:insensitive="true"
      style="display:none"
-     transform="translate(157.42708,78.176081)">
+     transform="translate(157.42715,78.176031)">
     <path
        style="opacity:1;fill:url(#meshgradient8412);fill-opacity:1;stroke:none;stroke-width:0.5451864;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -162.71875,-72.887501 h 508 V 212.8625 h -508 z"
@@ -109,12 +111,12 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 2"
-     transform="translate(157.42708,78.176081)">
+     transform="translate(157.42715,78.176031)">
     <g
        id="g2417"
-       transform="matrix(1.0005209,0,0,1.0010185,0.08198744,-0.21142105)">
+       transform="matrix(1.0020834,0,0,1.0020834,0.03687096,0.07029953)">
       <g
-         transform="matrix(2,0,0,2,157.42708,-207.57389)"
+         transform="matrix(2,0,0,2,157.42708,-207.6267)"
          id="g34757">
         <g
            id="g33163"
