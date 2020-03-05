@@ -34,6 +34,6 @@ The most intriguing concept of life for me is modularity. What began as curiosit
 To quickly summarize, I am a hopeful biologist, part-time photographer, gamer (#DreamOG), knower of things, an admirer of wibbly wobbly timey wimey stuff.
 </p>
 
-<p>
+<p style='text-align: center'>
 Enjoy your visit to my page and DO NOT BLINK!!!!
 </p>
