@@ -14,9 +14,9 @@ Projects
 ---------------
 
 <p style="text-align: justify">
-Guide: Dr. Himanshu Sinha
+Guide: Dr. <a href="https://home.iitm.ac.in/sinha/people/himanshu_sinha.html">Himanshu Sinha</a>
 <br>
-Indian Institute of Technology Madras
+<a href="https://www.iitm.ac.in/">Indian Institute of Technology Madras</a>
 <br>
 </p>
 
@@ -34,7 +34,7 @@ Indian Institute of Technology Madras
 <p style="text-align: justify">
 Guide: Dr. K.S. Jaganathan
 <br>
-Shantha Biotechnics Private Limited
+Shantha Biotechnics Private Limited, Subsidiary of <a href="https://www.sanofi.in/">Sanofi Group>
 <br>
 </p>
 
@@ -49,7 +49,7 @@ Shantha Biotechnics Private Limited
 -----------------
 
 <p style="text-align: justify">
-Winter internship at GeneTech, Hyderabad
+Winter internship at <a href="https://genetech.co.in/">GeneTech</a>, Hyderabad
 <br>
 </p>
 -
@@ -59,7 +59,7 @@ Winter internship at GeneTech, Hyderabad
 -----------------
 
 <p style="text-align: justify">
-Winter internship at GeneTech, Hyderabad
+Winter internship at <a href="https://genetech.co.in/">GeneTech</a>, Hyderabad
 <br>
 </p>
 -
