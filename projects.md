@@ -17,4 +17,4 @@ Projects
 Guide: Dr. Himanshu sinha
 <br>
 
-<embed src="/assets/Thesis.pdf" width="800" height="500">
+<embed src="/assets/Generation_of_RP_Variant_Clones_for_Yeast_2_Hybrid.pdf" width="800" height="500">
