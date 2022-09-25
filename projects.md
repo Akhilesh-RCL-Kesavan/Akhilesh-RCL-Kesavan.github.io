@@ -31,7 +31,7 @@ Guide: Dr. <a href="https://home.iitm.ac.in/sinha/people/himanshu_sinha.html">Hi
 
 <br>
 
-<hr style="width:50%">
+<hr style="width:50%; text-align: center">
 
 <br>
 
@@ -51,7 +51,7 @@ Shantha Biotechnics Private Limited, Subsidiary of <a href="https://www.sanofi.i
 
 <br>
 
-<hr style="width:50%">
+<hr style="width:50%; text-align: center">
 
 <br>
 
@@ -67,7 +67,7 @@ Winter internship at <a href="https://genetech.co.in/">GeneTech</a>, Hyderabad
 
 <br>
 
-<hr style="width:50%">
+<hr style="width:50%; text-align: center">
 
 <br>
 
