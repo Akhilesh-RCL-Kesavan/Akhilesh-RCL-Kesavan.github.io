@@ -31,7 +31,9 @@ Guide: Dr. <a href="https://home.iitm.ac.in/sinha/people/himanshu_sinha.html">Hi
 
 <br>
 
-<hr>
+<hr style="width:50%">
+
+<br>
 
 **Protein estimation methods and its application in bio-pharmaceutics**
 ----------------
@@ -49,7 +51,9 @@ Shantha Biotechnics Private Limited, Subsidiary of <a href="https://www.sanofi.i
 
 <br>
 
-<hr>
+<hr style="width:50%">
+
+<br>
 
 **Detecting common mutations in HBB gene by ARMS PCR for molecular diagnosis of Beta Thalassemia and Sickle Cell Anemia**
 -----------------
@@ -63,7 +67,9 @@ Winter internship at <a href="https://genetech.co.in/">GeneTech</a>, Hyderabad
 
 <br>
 
-<hr>
+<hr style="width:50%">
+
+<br>
 
 **Detecting number of CGG repeats in FMR gene for molecular diagnosis of Fragile X syndrome by PCR**
 -----------------
