@@ -13,10 +13,8 @@ Projects
 **Identifying Interacting Partners of Ribosomal Proteins**
 ---------------
 
-
 <p style="text-align: justify">
-<br>
 Guide: Dr. Himanshu sinha
 <br>
 
-<embed src="/assets/thesis.pdf" type="application/pdf">
+<embed src="/assets/thesis.pdf" width="800" height="500">
