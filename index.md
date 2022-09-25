@@ -6,6 +6,8 @@ layout: default
 Vanakkam
 ======
 
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
 <p style="text-align: justify">
 <br>
 Hey everyone!!!!! You must be wondering how did you end up here. It would appear you are curious enough to click on a link to know more about this guy Akhilesh Kesavan.
