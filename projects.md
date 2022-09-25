@@ -17,4 +17,4 @@ Projects
 Guide: Dr. Himanshu sinha
 <br>
 
-<embed src="/assets/thesis.pdf" width="800" height="500">
+<embed src="/assets/Thesis.pdf" width="800" height="500">
