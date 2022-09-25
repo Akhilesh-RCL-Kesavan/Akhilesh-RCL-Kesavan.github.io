@@ -34,7 +34,7 @@ Guide: Dr. <a href="https://home.iitm.ac.in/sinha/people/himanshu_sinha.html">Hi
 <p style="text-align: justify">
 Guide: Dr. K.S. Jaganathan
 <br>
-Shantha Biotechnics Private Limited, Subsidiary of <a href="https://www.sanofi.in/">Sanofi Group>
+Shantha Biotechnics Private Limited, Subsidiary of <a href="https://www.sanofi.in/">Sanofi Group</a>
 <br>
 </p>
 
