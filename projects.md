@@ -14,8 +14,11 @@ Projects
 ---------------
 
 <p style="text-align: justify">
-Guide: Dr. Himanshu Sinha <br>Indian Institute of Technology Madras
+Guide: Dr. Himanshu Sinha
 <br>
+Indian Institute of Technology Madras
+<br>
+</p>
 
 - Identified and cloned all ribosomal protein genes to further study ribosomal protein interactions
 - Set up protocols for generating clones compatible to gateway cloning
@@ -29,8 +32,11 @@ Guide: Dr. Himanshu Sinha <br>Indian Institute of Technology Madras
 **Protein estimation methods and its application in bio-pharmaceutics**
 ----------------
 <p style="text-align: justify">
-Guide: Dr. K.S. Jaganathan <br>Shantha Biotechnics Private Limited
+Guide: Dr. K.S. Jaganathan
 <br>
+Shantha Biotechnics Private Limited
+<br>
+</p>
 
 - Studied the different protein estimation methods and their application in biopharmaceuticals and use in vaccine formulation
 - Performed various protein extraction and purification techniques
@@ -45,7 +51,7 @@ Guide: Dr. K.S. Jaganathan <br>Shantha Biotechnics Private Limited
 <p style="text-align: justify">
 Winter internship at GeneTech, Hyderabad
 <br>
-
+</p>
 -
 -
 
@@ -55,6 +61,6 @@ Winter internship at GeneTech, Hyderabad
 <p style="text-align: justify">
 Winter internship at GeneTech, Hyderabad
 <br>
-
+</p>
 -
 -
