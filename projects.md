@@ -62,8 +62,9 @@ Shantha Biotechnics Private Limited, Subsidiary of <a href="https://www.sanofi.i
 Winter internship at <a href="https://genetech.co.in/">GeneTech</a>, Hyderabad
 <br>
 </p>
--
--
+- Screened for mutations in the HBB gene for beta thalassemia and sickle cell anemia diagnosis
+- Extracted DNA from patient blood samples
+- Identified specific primers to detect the mutations using ARMS PCR and gel electrophoresis
 
 <br>
 
@@ -78,7 +79,8 @@ Winter internship at <a href="https://genetech.co.in/">GeneTech</a>, Hyderabad
 Winter internship at <a href="https://genetech.co.in/">GeneTech</a>, Hyderabad
 <br>
 </p>
--
--
+- Screened the FMR gene for Fragile X syndrome diagnosis
+- Extracted DNA from patient tissue samples
+- Estimated the length of the CGG repeats in the FRM gene by comparing with ladder length during gel electrophoresis
 
 <br>
