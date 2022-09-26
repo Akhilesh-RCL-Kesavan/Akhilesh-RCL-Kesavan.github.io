@@ -27,7 +27,7 @@ Guide: Dr. <a href="https://home.iitm.ac.in/sinha/people/himanshu_sinha.html">Hi
 - Performed extensive amounts of DNA extraction, purification and amplification as well as transformations
 
 
-<embed src="/assets/Generation_of_RP_Variant_Clones_for_Yeast_2_Hybrid.pdf" width="800" height="800">
+<embed src="/assets/Generation_of_RP_Variant_Clones_for_Yeast_2_Hybrid.pdf" width="800" height="1000" align="centre">
 
 <br>
 
@@ -47,7 +47,7 @@ Shantha Biotechnics Private Limited, Subsidiary of <a href="https://www.sanofi.i
 - Studied the different protein estimation methods and their application in biopharmaceuticals and use in vaccine formulation
 - Performed various protein extraction and purification techniques
 
-<embed src="/assets/Protein_Estimation_Methods_Project.pdf" width="800" height="800">
+<embed src="/assets/Protein_Estimation_Methods_Project.pdf" width="800" height="1000" align="centre">
 
 <br>
 
