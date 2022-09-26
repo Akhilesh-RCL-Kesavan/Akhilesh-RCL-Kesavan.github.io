@@ -47,7 +47,7 @@ Shantha Biotechnics Private Limited, Subsidiary of <a href="https://www.sanofi.i
 - Studied the different protein estimation methods and their application in biopharmaceuticals and use in vaccine formulation
 - Performed various protein extraction and purification techniques
 
-<embed src="/assets/Protein_Estimation_Methods_Project.pdf" width="800" height="1000" align="centre">
+<embed src="/assets/Protein_Estimation_Methods_Project.pdf" width="800" height="1000" align="center">
 
 <br>
 
