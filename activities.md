@@ -22,7 +22,26 @@ Activities
 Co-organizer
 
 
-/assets/Gallery/EMBO/Day1_0.jpg
+![img](/assets/EMBO/Day1_0.jpg)
+![img](/assets/EMBO/Day1_1.jpg)
+![img](/assets/EMBO/Day1_21.jpg)
+![img](/assets/EMBO/Day1_24.jpg)
+![img](/assets/EMBO/Day1_72.jpg)
+![img](/assets/EMBO/Day1_74.jpg)
+![img](/assets/EMBO/Day1_77.jpg)
+![img](/assets/EMBO/Day1_78.jpg)
+![img](/assets/EMBO/Day1_8.jpg)
+![img](/assets/EMBO/Cultural_Night_3.jpg)
+![img](/assets/EMBO/Cultural_Night_11.jpg)
+![img](/assets/EMBO/Cultural_Night_12.jpg)
+![img](/assets/EMBO/Day2_20.jpg)
+![img](/assets/EMBO/Day2_3.jpg)
+![img](/assets/EMBO/Day3_13.jpg)
+![img](/assets/EMBO/Day3_18.jpg)
+![img](/assets/EMBO/Day3_20.jpg)
+![img](/assets/EMBO/Day3_27.jpg)
+![img](/assets/EMBO/Day3_32.jpg)
+![img](/assets/EMBO/Day3_5.jpg)
 
 
 
