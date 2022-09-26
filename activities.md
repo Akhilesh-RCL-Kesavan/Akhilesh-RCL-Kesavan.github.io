@@ -101,6 +101,120 @@ Co-organizer
 
 Marketing, Student Relations and Hospitality, Team Head
 
+
+<!-- Slideshow container -->
+<div class="slideshow-container">
+
+  <!-- Full-width images with number and caption text -->
+  <div class="mySlides fade">
+		<img src="/assets/biofest/Biofest (1 of 1)-9.jpg" alt="Biofest (1 of 1)-9">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/Biofest (1 of 1).jpg" alt="Biofest (1 of 1)">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/Biofest (24 of 41).jpg" alt="Biofest (24 of 41)">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/DSC_1032.JPG" alt="DSC_1032">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/DSC_1053.JPG" alt="DSC_1053">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/DSC_1054.JPG" alt="DSC_1054">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/DSC_1056.JPG" alt="DSC_1056">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/DSC_1057.JPG" alt="DSC_1057">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/DSC_1058.JPG" alt="DSC_1058">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/DSC_1059.JPG" alt="DSC_1059">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/DSC_1060.JPG" alt="DSC_1060">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/DSC_1061.JPG" alt="DSC_1061">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/DSC_1062.JPG" alt="DSC_1062">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/DSC_1063.JPG" alt="DSC_1063">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/DSC_1064.JPG" alt="DSC_1064">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/DSC_1065.JPG" alt="DSC_1065">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/DSC_1066.JPG" alt="DSC_1066">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/DSC_1067.JPG" alt="DSC_1067">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/DSC_1109.JPG" alt="DSC_1109">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/DSC_1133.JPG" alt="DSC_1133">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/DSC_1143.JPG" alt="DSC_1143">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/DSC_1291.JPG" alt="DSC_1291">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/DSC_1322.JPG" alt="DSC_1322">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/DSC_1338.JPG" alt="DSC_1338">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/DSC_1359.JPG" alt="DSC_1359">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/DSC_1387.JPG" alt="DSC_1387">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/DSC_1389.JPG" alt="DSC_1389">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/DSC_1407.JPG" alt="DSC_1407">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/DSC_1439.JPG" alt="DSC_1439">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/DSC_1441.JPG" alt="DSC_1441">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/DSC_1604.JPG" alt="DSC_1604">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/DSC_1605.JPG" alt="DSC_1605">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/WP_20160305_21_26_07_Pro.jpg" alt="WP_20160305_21_26_07_Pro">
+	</div>
+	<div class="mySlides fade">
+		<img src="/assets/biofest/_DSC0041.JPG" alt="_DSC0041">
+	</div>
+
+  <!-- Next and previous buttons -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+
+
 <br>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
