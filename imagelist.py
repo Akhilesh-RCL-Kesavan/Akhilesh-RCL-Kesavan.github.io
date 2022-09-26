@@ -14,7 +14,7 @@ for path in os.listdir(dir_path):
 
 with open("out.txt", "w") as f:
     for img in res:
-        f.write("\t<div class=\"mySlides fade\">\n\t\t<img src=\""+dir_path[1:]+img+"\" alt=\""+img[:-4]+">\n\t</div>")
+        f.write("\t<div class=\"mySlides fade\">\n\t\t<img src=\""+dir_path[1:]+img+"\" alt=\""+img[:-4]+"\">\n\t</div>\n")
 
 
 
