@@ -27,7 +27,10 @@ Guide: Dr. <a href="https://home.iitm.ac.in/sinha/people/himanshu_sinha.html">Hi
 - Performed extensive amounts of DNA extraction, purification and amplification as well as transformations
 
 <center>
- <iframe src="https://docs.google.com/viewer?url=/assets/Generation_of_RP_Variant_Clones_for_Yeast_2_Hybrid.pdf&embedded=true" style="width:100%; height:650px;" frameborder="0"></iframe>
+ <object data="/assets/Generation_of_RP_Variant_Clones_for_Yeast_2_Hybrid.pdf" type='application/pdf' width="800" height="1000">
+    <p>Oops! Your browser doesn't support PDFs!</p>
+    <p><a href="/assets/Generation_of_RP_Variant_Clones_for_Yeast_2_Hybrid.pdf">Download Instead</a></p>
+  </object>
 </center>
 
 <br>
@@ -49,8 +52,12 @@ Shantha Biotechnics Private Limited, Subsidiary of <a href="https://www.sanofi.i
 - Performed various protein extraction and purification techniques
 
 <center>
- <iframe src="https://docs.google.com/viewer?url=/assets/Protein_Estimation_Methods_Project.pdf&embedded=true" style="width:100%; height:650px;" frameborder="0"></iframe>
+ <object data="/assets/Protein_Estimation_Methods_Project.pdf" type='application/pdf' width="800" height="1000">
+    <p>Oops! Your browser doesn't support PDFs!</p>
+    <p><a href="/assets/Generation_of_RP_Variant_Clones_for_Yeast_2_Hybrid.pdf">Download Instead</a></p>
+  </object>
 </center>
+
 <br>
 
 <hr style="width:50%; margin-left:25%">
