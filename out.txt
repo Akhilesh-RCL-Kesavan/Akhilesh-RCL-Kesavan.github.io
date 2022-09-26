@@ -1,0 +1,41 @@
+	<div class="mySlides fade">
+		<img src="/assets/EMBO/Cultural_Night_11.jpg" alt="Cultural_Night_11>
+	</div>	<div class="mySlides fade">
+		<img src="/assets/EMBO/Cultural_Night_12.jpg" alt="Cultural_Night_12>
+	</div>	<div class="mySlides fade">
+		<img src="/assets/EMBO/Cultural_Night_3.jpg" alt="Cultural_Night_3>
+	</div>	<div class="mySlides fade">
+		<img src="/assets/EMBO/Day1_0.jpg" alt="Day1_0>
+	</div>	<div class="mySlides fade">
+		<img src="/assets/EMBO/Day1_1.jpg" alt="Day1_1>
+	</div>	<div class="mySlides fade">
+		<img src="/assets/EMBO/Day1_21.jpg" alt="Day1_21>
+	</div>	<div class="mySlides fade">
+		<img src="/assets/EMBO/Day1_24.jpg" alt="Day1_24>
+	</div>	<div class="mySlides fade">
+		<img src="/assets/EMBO/Day1_72.jpg" alt="Day1_72>
+	</div>	<div class="mySlides fade">
+		<img src="/assets/EMBO/Day1_74.jpg" alt="Day1_74>
+	</div>	<div class="mySlides fade">
+		<img src="/assets/EMBO/Day1_77.jpg" alt="Day1_77>
+	</div>	<div class="mySlides fade">
+		<img src="/assets/EMBO/Day1_78.jpg" alt="Day1_78>
+	</div>	<div class="mySlides fade">
+		<img src="/assets/EMBO/Day1_8.jpg" alt="Day1_8>
+	</div>	<div class="mySlides fade">
+		<img src="/assets/EMBO/Day2_20.jpg" alt="Day2_20>
+	</div>	<div class="mySlides fade">
+		<img src="/assets/EMBO/Day2_3.jpg" alt="Day2_3>
+	</div>	<div class="mySlides fade">
+		<img src="/assets/EMBO/Day3_13.jpg" alt="Day3_13>
+	</div>	<div class="mySlides fade">
+		<img src="/assets/EMBO/Day3_18.jpg" alt="Day3_18>
+	</div>	<div class="mySlides fade">
+		<img src="/assets/EMBO/Day3_20.jpg" alt="Day3_20>
+	</div>	<div class="mySlides fade">
+		<img src="/assets/EMBO/Day3_27.jpg" alt="Day3_27>
+	</div>	<div class="mySlides fade">
+		<img src="/assets/EMBO/Day3_32.jpg" alt="Day3_32>
+	</div>	<div class="mySlides fade">
+		<img src="/assets/EMBO/Day3_5.jpg" alt="Day3_5>
+	</div>

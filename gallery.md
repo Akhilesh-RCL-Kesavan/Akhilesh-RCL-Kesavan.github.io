@@ -10,7 +10,7 @@ Gallery
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-
+<!--
 <img src="/assets/gallery/Akhilesh-1.jpg" alt="Akhilesh-1" loading="lazy">
 <img src="/assets/gallery/Akhilesh_Birthday-1 September 30, 2016.jpg" alt="Akhilesh_Birthday-1 September 30, 2016" loading="lazy">
 <img src="/assets/gallery/Akhilesh_Flowers-September 10, 2016.jpg" alt="Akhilesh_Flowers-September 10, 2016" loading="lazy">
@@ -81,3 +81,4 @@ Gallery
 <img src="/assets/gallery/WP_20150430_21_54_53_Selfie.jpg" alt="WP_20150430_21_54_53_Selfie" loading="lazy">
 <img src="/assets/gallery/WP_20150531_21_29_00_Selfie.jpg" alt="WP_20150531_21_29_00_Selfie" loading="lazy">
 <img src="/assets/gallery/WP_20151002_12_31_55_Selfie.jpg" alt="WP_20151002_12_31_55_Selfie" loading="lazy">
+-->
