@@ -27,7 +27,7 @@ Guide: Dr. <a href="https://home.iitm.ac.in/sinha/people/himanshu_sinha.html">Hi
 - Performed extensive amounts of DNA extraction, purification and amplification as well as transformations
 
 
-<embed src="/assets/Generation_of_RP_Variant_Clones_for_Yeast_2_Hybrid.pdf" width="800" height="1000" align="centre">
+<embed src="/assets/Generation_of_RP_Variant_Clones_for_Yeast_2_Hybrid.pdf" width="800" height="1000" align="center">
 
 <br>
 
