@@ -234,26 +234,6 @@ Marketing, Student Relations and Hospitality, Team Head
 
 <br>
 
-<!-- ### **Photography**
-
-<br>
-
-<hr style="width:50%; margin-left:25%">
-
-<br>
-
-### **Graphic Design**
-
-<br>
-
-<hr style="width:50%; margin-left:25%">
-
-<br>
-
-### **Gaming**
-
-<br>
--->
 <script>
 let slideIndex = 1;
 showSlides(slideIndex);
