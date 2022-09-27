@@ -14,7 +14,7 @@ Gallery
 
 
 <style>
-  .act_image {max-height: 200px; border:  1px solid black; margin: 5px 10px 10px 5px}
+  .act_image {max-height: 180px; border:  1px solid black; margin: 5px 10px 10px 5px}
 </style>
 
 Selfies
