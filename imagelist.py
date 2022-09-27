@@ -1,6 +1,6 @@
 import os
 
-dir_path = './assets/gallery/'
+dir_path = './assets/EMBO/'
 
 # list to store files
 res = []
@@ -14,7 +14,7 @@ for path in os.listdir(dir_path):
 
 with open("out.txt", "w") as f:
     for img in res:
-        f.write("<img data-src=\""+dir_path[1:]+img+"\" class=\"lazyload act_image\" />\n")
+        f.write("<img data-src=\""+dir_path[1:]+img+"\" alt=\""+img[:-13]+"\" class=\"lazyload act_image\" />\n")
 
 
 

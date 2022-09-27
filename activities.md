@@ -29,26 +29,28 @@ Co-organizer
 </style>
 
 <center>
-  <img data-src="/assets/EMBO/Day1_0.jpg" class="lazyload act_image" />
-  <img data-src="/assets/EMBO/Event1.jpg" class="lazyload act_image" />
-  <img data-src="/assets/EMBO/Event2.jpg" class="lazyload act_image" />
-  <img data-src="/assets/EMBO/TeamiGEM2019.jpg" class="lazyload act_image" />
-  <img data-src="/assets/EMBO/PosterPresentations.jpg" class="lazyload act_image" />
-  <img data-src="/assets/EMBO/GroupDiscussion.jpg" class="lazyload act_image" />
+
+<img data-src="/assets/EMBO/Day1_0_3_11zon.webp" alt="Day1_0" class="lazyload act_image" />
+<img data-src="/assets/EMBO/Event1_4_11zon.webp" alt="Event1" class="lazyload act_image" />
+<img data-src="/assets/EMBO/Event2_5_11zon.webp" alt="Event2" class="lazyload act_image" />
+<img data-src="/assets/EMBO/TeamiGEM2019_5_11zon.webp" alt="TeamiGEM2019" class="lazyload act_image" />
+<img data-src="/assets/EMBO/PosterPresentations_2_11zon.webp" alt="PosterPresentations" class="lazyload act_image" />
+<img data-src="/assets/EMBO/GroupDiscussion_1_11zon.webp" alt="GroupDiscussion" class="lazyload act_image" />
+
 </center>
 <br>
 Cultural Event
 <br>
 <center>
-  <img data-src="/assets/EMBO/Cultural_Night_3.jpg" class="lazyload act_image" />
-  <img data-src="/assets/EMBO/Cultural_Night_12.jpg" class="lazyload act_image" />
+  <img data-src="/assets/EMBO/Cultural_Night_3_1_11zon.webp" alt="Cultural_Night_3" class="lazyload act_image" />
+  <img data-src="/assets/EMBO/Cultural_Night_12_2_11zon.webp" alt="Cultural_Night_12" class="lazyload act_image" />
 </center>
 <br>
 Team Photos
 <br>
 <center>
-  <img data-src="/assets/EMBO/Team1.jpg" class="lazyload act_image" />
-  <img data-src="/assets/EMBO/Team2.jpg" class="lazyload act_image" />
+  <img data-src="/assets/EMBO/Team1_3_11zon.webp" alt="Team1" class="lazyload act_image" />
+  <img data-src="/assets/EMBO/Team2_4_11zon.webp" alt="Team2" class="lazyload act_image" />
 </center>
 
 <br>
@@ -66,21 +68,21 @@ Marketing, Student Relations and Hospitality, Team Head
 
 
 <center>
-  <img data-src="/assets/biofest/Biofest.jpg" class="lazyload act_image" />
-  <img data-src="/assets/biofest/Event_1.JPG" class="lazyload act_image" />
-  <img data-src="/assets/biofest/Event_2.JPG" class="lazyload act_image" />
-  <img data-src="/assets/biofest/Event_3.JPG" class="lazyload act_image" />
-  <img data-src="/assets/biofest/Event_4.JPG" class="lazyload act_image" />
-  <img data-src="/assets/biofest/Event_5.JPG" class="lazyload act_image" />
-  <img data-src="/assets/biofest/Outdoor_Event.JPG" class="lazyload act_image" />
-  <img data-src="/assets/biofest/Feedback_Web.jpg" class="lazyload act_image" />
+  <img data-src="/assets/biofest/Biofest_1_11zon.webp" alt="Biofest" class="lazyload act_image" />
+  <img data-src="/assets/biofest/Event_1_2_11zon.webp" alt="Event_1" class="lazyload act_image" />
+  <img data-src="/assets/biofest/Event_2_3_11zon.webp" alt="Event_2" class="lazyload act_image" />
+  <img data-src="/assets/biofest/Event_3_4_11zon.webp" alt="Event_3" class="lazyload act_image" />
+  <img data-src="/assets/biofest/Event_4_5_11zon.webp" alt="Event_4" class="lazyload act_image" />
+  <img data-src="/assets/biofest/Event_5_6_11zon.webp" alt="Event_5" class="lazyload act_image" />
+  <img data-src="/assets/biofest/Feedback_Web_1_11zon.webp" alt="Feedback_Web" class="lazyload act_image" />
+  <img data-src="/assets/biofest/Outdoor_Event_2_11zon.webp" alt="Outdoor_Event" class="lazyload act_image" />
 </center>
 <br>
 Team Photos
 <br>
 <center>
-  <img data-src="/assets/biofest/Team.jpg" class="lazyload act_image" />
-  <img data-src="/assets/biofest/Team 2.jpg" class="lazyload act_image" />
+  <img data-src="/assets/biofest/Team_4_11zon.webp" alt="Team" class="lazyload act_image" />
+  <img data-src="/assets/biofest/Team 2_3_11zon.webp" alt="Team 2" class="lazyload act_image" />
 </center>
 
 
@@ -117,14 +119,14 @@ The time I jumped off a 855ft tall building and lived to tell the tale
 Coral at Havlock in the Andaman islands
 
 <center>
-  <img data-src="/assets/snorkelling/DSCN0099.JPG" class="lazyload act_image" />
-  <img data-src="/assets/snorkelling/DSCN0100.JPG" class="lazyload act_image" />
-  <img data-src="/assets/snorkelling/DSCN0117.JPG" class="lazyload act_image" />
-  <img data-src="/assets/snorkelling/DSCN0134.JPG" class="lazyload act_image" />
-  <img data-src="/assets/snorkelling/DSCN0160.JPG" class="lazyload act_image" />
-  <img data-src="/assets/snorkelling/DSCN0165.JPG" class="lazyload act_image" />
-  <img data-src="/assets/snorkelling/DSCN0166.JPG" class="lazyload act_image" />
-  <img data-src="/assets/snorkelling/DSCN0202.JPG" class="lazyload act_image" />
+  <img data-src="/assets/snorkelling/DSCN0099_1_11zon.webp" alt="DSCN0099" class="lazyload act_image" />
+  <img data-src="/assets/snorkelling/DSCN0100_2_11zon.webp" alt="DSCN0100" class="lazyload act_image" />
+  <img data-src="/assets/snorkelling/DSCN0117_3_11zon.webp" alt="DSCN0117" class="lazyload act_image" />
+  <img data-src="/assets/snorkelling/DSCN0134_4_11zon.webp" alt="DSCN0134" class="lazyload act_image" />
+  <img data-src="/assets/snorkelling/DSCN0160_5_11zon.webp" alt="DSCN0160" class="lazyload act_image" />
+  <img data-src="/assets/snorkelling/DSCN0165_6_11zon.webp" alt="DSCN0165" class="lazyload act_image" />
+  <img data-src="/assets/snorkelling/DSCN0166_7_11zon.webp" alt="DSCN0166" class="lazyload act_image" />
+  <img data-src="/assets/snorkelling/DSCN0202_8_11zon.webp" alt="DSCN0202" class="lazyload act_image" />
 </center>
 
 <br>
