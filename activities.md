@@ -95,11 +95,7 @@ Team Photos
 
 <br>
 
-### **Adventure Sports**
-
-<br>
-
-<hr style="width:50%; margin-left:25%">
+### **Sky Jump**
 
 <br>
 
@@ -111,3 +107,23 @@ The time I jumped off a 855ft tall building and lived to tell the tale
   <source src="/assets/jump.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+
+<hr style="width:50%; margin-left:25%">
+
+<br>
+
+### **Snorkelling**
+
+Coral at Havlock in the Andaman islands
+
+<center>
+  <img data-src="/assets/snorkelling/DSCN0099.JPG" class="lazyload act_image" />
+  <img data-src="/assets/snorkelling/DSCN0100.JPG" class="lazyload act_image" />
+  <img data-src="/assets/snorkelling/DSCN0117.JPG" class="lazyload act_image" />
+  <img data-src="/assets/snorkelling/DSCN0134.JPG" class="lazyload act_image" />
+  <img data-src="/assets/snorkelling/DSCN0160.JPG" class="lazyload act_image" />
+  <img data-src="/assets/snorkelling/DSCN0165.JPG" class="lazyload act_image" />
+  <img data-src="/assets/snorkelling/DSCN0166.JPG" class="lazyload act_image" />
+  <img data-src="/assets/snorkelling/DSCN0202.JPG" class="lazyload act_image" />
+</center>
