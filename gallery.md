@@ -14,34 +14,57 @@ Gallery
 
 
 <style>
-  .act_image {max-height: 200px; border:  1px solid black; margin: 5px 10px 10px 5px}
+  .act_image {max-height: 200px; border:  1px solid black; margin: 5px 10px 10px 5px align: "center"}
 </style>
 
-<img data-src="/assets/gallery/Akhilesh-1.jpg" class="lazyload act_image" />
-<img data-src="/assets/gallery/Akhilesh_Flowers-September 10, 2016.jpg" class="lazyload act_image" />
+Selfies
+---------
+
+<br>
+
+|<img data-src="/assets/gallery/withDSP.jpg" class="lazyload act_image" />|<img data-src="/assets/gallery/withDSP(cooler).jpeg" class="lazyload act_image" />|
+| With DSP | With the cooler <a herf="https://praneethd7.github.io/">DSP</a>
+
+<br>
+
+<img data-src="/assets/gallery/Selfie1.jpg" class="lazyload act_image" />
+<img data-src="/assets/gallery/selfie2.jpg" class="lazyload act_image" />
+<img data-src="/assets/gallery/selfie3.JPG" class="lazyload act_image" />
+<img data-src="/assets/gallery/ethnic1.jpg" class="lazyload act_image" />
+<img data-src="/assets/gallery/ethnic2.JPG" class="lazyload act_image" />
+<img data-src="/assets/gallery/earliestpicknowntomankind.jpg" class="lazyload act_image" />
+
+<br>
+
+London
+-------
+<br>
+
+<img data-src="/assets/gallery/londonbridge.JPG" class="lazyload act_image" />
+<img data-src="/assets/gallery/londoneye.JPG" class="lazyload act_image" />
+<img data-src="/assets/gallery/westministerpalace.JPG" class="lazyload act_image" />
+<img data-src="/assets/gallery/bigben.JPG" class="lazyload act_image" />
+
+Randoms
+-------
+<br>
+
+<img data-src="/assets/gallery/flower1.jpg" class="lazyload act_image" />
+<img data-src="/assets/gallery/flower2.JPG" class="lazyload act_image" />
+<img data-src="/assets/gallery/flower3.JPG" class="lazyload act_image" />
+<img data-src="/assets/gallery/flower4.JPG" class="lazyload act_image" />
+<img data-src="/assets/gallery/flower5.JPG" class="lazyload act_image" />
 <img data-src="/assets/gallery/Akhilesh_Flys-10 September 13, 2016.jpg" class="lazyload act_image" />
 <img data-src="/assets/gallery/Akhilesh_Flys-4 September 13, 2016.jpg" class="lazyload act_image" />
-<img data-src="/assets/gallery/Akhilesh_Flys-9 September 13, 2016.jpg" class="lazyload act_image" />
-<img data-src="/assets/gallery/CSC_0033.JPG" class="lazyload act_image" />
-<img data-src="/assets/gallery/CSC_0038.JPG" class="lazyload act_image" />
-<img data-src="/assets/gallery/CSC_0039.JPG" class="lazyload act_image" />
-<img data-src="/assets/gallery/DSC_0735.JPG" class="lazyload act_image" />
-<img data-src="/assets/gallery/DSC_0760.JPG" class="lazyload act_image" />
-<img data-src="/assets/gallery/DSC_0786.JPG" class="lazyload act_image" />
-<img data-src="/assets/gallery/DSC_0798.JPG" class="lazyload act_image" />
-<img data-src="/assets/gallery/DSC_0803.JPG" class="lazyload act_image" />
-<img data-src="/assets/gallery/DSC_1069.JPG" class="lazyload act_image" />
-<img data-src="/assets/gallery/DSC_1076.JPG" class="lazyload act_image" />
-<img data-src="/assets/gallery/DSC_1077.JPG" class="lazyload act_image" />
-<img data-src="/assets/gallery/DSC_1078.JPG" class="lazyload act_image" />
-<img data-src="/assets/gallery/DSC_1079.JPG" class="lazyload act_image" />
-<img data-src="/assets/gallery/IMG_20190410_173448.jpg" class="lazyload act_image" />
+<img data-src="/assets/gallery/aminoacidwall.jpg" class="lazyload act_image" />
+<img data-src="/assets/gallery/Andaman1.JPG" class="lazyload act_image" />
+<img data-src="/assets/gallery/andaman2.JPG" class="lazyload act_image" />
+<img data-src="/assets/gallery/andaman3.JPG" class="lazyload act_image" />
+
+<br>
+
+Logo
+-------
+<br>
+
 <img data-src="/assets/gallery/Logo1_Black.png" class="lazyload act_image" />
-<img data-src="/assets/gallery/P5090397.JPG" class="lazyload act_image" />
-<img data-src="/assets/gallery/P5100499.JPG" class="lazyload act_image" />
-<img data-src="/assets/gallery/P5100504.JPG" class="lazyload act_image" />
-<img data-src="/assets/gallery/P5100512.JPG" class="lazyload act_image" />
-<img data-src="/assets/gallery/Photo.jpg" class="lazyload act_image" />
-<img data-src="/assets/gallery/WP_20150325_01_24_25_Pro.jpg" class="lazyload act_image" />
-<img data-src="/assets/gallery/WP_20150531_21_29_00_Selfie.jpg" class="lazyload act_image" />
-<img data-src="/assets/gallery/WP_20151002_12_31_55_Selfie.jpg" class="lazyload act_image" />

@@ -1,6 +1,6 @@
 import os
 
-dir_path = './assets/snorkelling/'
+dir_path = './assets/gallery/'
 
 # list to store files
 res = []
