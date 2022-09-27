@@ -127,3 +127,5 @@ Coral at Havlock in the Andaman islands
   <img data-src="/assets/snorkelling/DSCN0166.JPG" class="lazyload act_image" />
   <img data-src="/assets/snorkelling/DSCN0202.JPG" class="lazyload act_image" />
 </center>
+
+<br>
