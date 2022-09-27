@@ -101,13 +101,13 @@ Team Photos
 
 The time I jumped off a 855ft tall building and lived to tell the tale
 
-<br>
 
 <video width="320" height="240" controls>
   <source src="/assets/jump.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
+<br>
 
 <hr style="width:50%; margin-left:25%">
 
