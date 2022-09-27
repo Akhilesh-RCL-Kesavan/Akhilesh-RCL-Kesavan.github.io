@@ -19,12 +19,11 @@ Gallery
 
 Selfies
 ---------
-<center>
-  |<img data-src="/assets/gallery/withDSP.jpg" class="lazyload act_image" />|<img data-src="/assets/gallery/withDSP(cooler).jpeg" class="lazyload act_image" />|
-  |:----:|:----:|
-  | With DSP | With the cooler <a herf="https://praneethd7.github.io/">DSP</a>
-</center>
 
+|<img data-src="/assets/gallery/withDSP.jpg" class="lazyload act_image" />|<img data-src="/assets/gallery/withDSP(cooler).jpeg" class="lazyload act_image" />|
+|:----:|:----:|
+| With DSP | With the cooler <a herf="https://praneethd7.github.io/">DSP</a>
+  
 <br>
 <center>
   <img data-src="/assets/gallery/Selfie1.jpg" class="lazyload act_image" />
