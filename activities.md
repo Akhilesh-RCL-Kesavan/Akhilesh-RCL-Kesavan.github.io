@@ -97,10 +97,7 @@ Team Photos
 
 ### **Sky Jump**
 
-<br>
-
 The time I jumped off a 855ft tall building and lived to tell the tale
-
 
 <video width="320" height="240" controls>
   <source src="/assets/jump.mp4" type="video/mp4">
