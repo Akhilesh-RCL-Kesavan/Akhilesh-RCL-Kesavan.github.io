@@ -1,41 +1,28 @@
-	<div class="mySlides fade">
-		<img src="/assets/EMBO/Cultural_Night_11.jpg" alt="Cultural_Night_11>
-	</div>	<div class="mySlides fade">
-		<img src="/assets/EMBO/Cultural_Night_12.jpg" alt="Cultural_Night_12>
-	</div>	<div class="mySlides fade">
-		<img src="/assets/EMBO/Cultural_Night_3.jpg" alt="Cultural_Night_3>
-	</div>	<div class="mySlides fade">
-		<img src="/assets/EMBO/Day1_0.jpg" alt="Day1_0>
-	</div>	<div class="mySlides fade">
-		<img src="/assets/EMBO/Day1_1.jpg" alt="Day1_1>
-	</div>	<div class="mySlides fade">
-		<img src="/assets/EMBO/Day1_21.jpg" alt="Day1_21>
-	</div>	<div class="mySlides fade">
-		<img src="/assets/EMBO/Day1_24.jpg" alt="Day1_24>
-	</div>	<div class="mySlides fade">
-		<img src="/assets/EMBO/Day1_72.jpg" alt="Day1_72>
-	</div>	<div class="mySlides fade">
-		<img src="/assets/EMBO/Day1_74.jpg" alt="Day1_74>
-	</div>	<div class="mySlides fade">
-		<img src="/assets/EMBO/Day1_77.jpg" alt="Day1_77>
-	</div>	<div class="mySlides fade">
-		<img src="/assets/EMBO/Day1_78.jpg" alt="Day1_78>
-	</div>	<div class="mySlides fade">
-		<img src="/assets/EMBO/Day1_8.jpg" alt="Day1_8>
-	</div>	<div class="mySlides fade">
-		<img src="/assets/EMBO/Day2_20.jpg" alt="Day2_20>
-	</div>	<div class="mySlides fade">
-		<img src="/assets/EMBO/Day2_3.jpg" alt="Day2_3>
-	</div>	<div class="mySlides fade">
-		<img src="/assets/EMBO/Day3_13.jpg" alt="Day3_13>
-	</div>	<div class="mySlides fade">
-		<img src="/assets/EMBO/Day3_18.jpg" alt="Day3_18>
-	</div>	<div class="mySlides fade">
-		<img src="/assets/EMBO/Day3_20.jpg" alt="Day3_20>
-	</div>	<div class="mySlides fade">
-		<img src="/assets/EMBO/Day3_27.jpg" alt="Day3_27>
-	</div>	<div class="mySlides fade">
-		<img src="/assets/EMBO/Day3_32.jpg" alt="Day3_32>
-	</div>	<div class="mySlides fade">
-		<img src="/assets/EMBO/Day3_5.jpg" alt="Day3_5>
-	</div>
+<img data-src="/assets/gallery/Akhilesh-1.jpg" class="lazyload act_image" />
+<img data-src="/assets/gallery/Akhilesh_Flowers-September 10, 2016.jpg" class="lazyload act_image" />
+<img data-src="/assets/gallery/Akhilesh_Flys-10 September 13, 2016.jpg" class="lazyload act_image" />
+<img data-src="/assets/gallery/Akhilesh_Flys-4 September 13, 2016.jpg" class="lazyload act_image" />
+<img data-src="/assets/gallery/Akhilesh_Flys-9 September 13, 2016.jpg" class="lazyload act_image" />
+<img data-src="/assets/gallery/CSC_0033.JPG" class="lazyload act_image" />
+<img data-src="/assets/gallery/CSC_0038.JPG" class="lazyload act_image" />
+<img data-src="/assets/gallery/CSC_0039.JPG" class="lazyload act_image" />
+<img data-src="/assets/gallery/DSC_0735.JPG" class="lazyload act_image" />
+<img data-src="/assets/gallery/DSC_0760.JPG" class="lazyload act_image" />
+<img data-src="/assets/gallery/DSC_0786.JPG" class="lazyload act_image" />
+<img data-src="/assets/gallery/DSC_0798.JPG" class="lazyload act_image" />
+<img data-src="/assets/gallery/DSC_0803.JPG" class="lazyload act_image" />
+<img data-src="/assets/gallery/DSC_1069.JPG" class="lazyload act_image" />
+<img data-src="/assets/gallery/DSC_1076.JPG" class="lazyload act_image" />
+<img data-src="/assets/gallery/DSC_1077.JPG" class="lazyload act_image" />
+<img data-src="/assets/gallery/DSC_1078.JPG" class="lazyload act_image" />
+<img data-src="/assets/gallery/DSC_1079.JPG" class="lazyload act_image" />
+<img data-src="/assets/gallery/IMG_20190410_173448.jpg" class="lazyload act_image" />
+<img data-src="/assets/gallery/Logo1_Black.png" class="lazyload act_image" />
+<img data-src="/assets/gallery/P5090397.JPG" class="lazyload act_image" />
+<img data-src="/assets/gallery/P5100499.JPG" class="lazyload act_image" />
+<img data-src="/assets/gallery/P5100504.JPG" class="lazyload act_image" />
+<img data-src="/assets/gallery/P5100512.JPG" class="lazyload act_image" />
+<img data-src="/assets/gallery/Photo.jpg" class="lazyload act_image" />
+<img data-src="/assets/gallery/WP_20150325_01_24_25_Pro.jpg" class="lazyload act_image" />
+<img data-src="/assets/gallery/WP_20150531_21_29_00_Selfie.jpg" class="lazyload act_image" />
+<img data-src="/assets/gallery/WP_20151002_12_31_55_Selfie.jpg" class="lazyload act_image" />

@@ -1,6 +1,6 @@
 import os
 
-dir_path = './assets/EMBO/'
+dir_path = './assets/biofest/'
 
 # list to store files
 res = []
@@ -14,7 +14,7 @@ for path in os.listdir(dir_path):
 
 with open("out.txt", "w") as f:
     for img in res:
-        f.write("\t<div class=\"mySlides fade\">\n\t\t<img src=\""+dir_path[1:]+img+"\" alt=\""+img[:-4]+"\">\n\t</div>\n")
+        f.write("<img data-src=\""+dir_path[1:]+img+"\" class=\"lazyload act_image\" />\n")
 
 
 
