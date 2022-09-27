@@ -79,8 +79,8 @@ Marketing, Student Relations and Hospitality, Team Head
 Team Photos
 <br>
 <center>
-  <img data-src="/assets/biofest/Team 2.jpg" class="lazyload act_image" />
   <img data-src="/assets/biofest/Team.jpg" class="lazyload act_image" />
+  <img data-src="/assets/biofest/Team 2.jpg" class="lazyload act_image" />
 </center>
 
 
@@ -90,15 +90,24 @@ Team Photos
 
 <br>
 
-**Extracurriculars**
+**Non Academic**
 ---------------
 
 <br>
 
-### **Coding**
+### **Adventure Sports**
 
 <br>
 
 <hr style="width:50%; margin-left:25%">
 
 <br>
+
+The time I jumped off a 855ft tall building and lived to tell the tale
+
+<br>
+
+<video width="320" height="240" controls>
+  <source src="/assets/jump.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
