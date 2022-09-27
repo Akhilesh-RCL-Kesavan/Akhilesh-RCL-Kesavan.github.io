@@ -1,6 +1,6 @@
 import os
 
-dir_path = './assets/biofest/'
+dir_path = './assets/EMBO/'
 
 # list to store files
 res = []
