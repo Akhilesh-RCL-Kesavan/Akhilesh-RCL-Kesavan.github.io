@@ -16,7 +16,7 @@ Resources
 ---------------
 
 <center>
- <p> Updated on September 2022
+ <p> Updated on September 2022 </p>
  <object data="/assets/Generation_of_RP_Variant_Clones_for_Yeast_2_Hybrid.pdf" type='application/pdf' width="800" height="1000">
     <p>Oops! Your browser doesn't support PDFs!</p>
     <p><a href="/assets/resources/Akhilesh_Kesavan_CV_September_2022.pdf">Download Instead</a></p>
