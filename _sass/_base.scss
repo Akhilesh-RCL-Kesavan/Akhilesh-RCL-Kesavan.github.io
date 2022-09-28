@@ -302,3 +302,12 @@ pre {
  from {opacity: .4}
  to {opacity: 1}
 }
+
+/* Preloader animation */
+#preloader {
+  background: #000 url(assets/256x256animationFnB.gif) no-repeat center center;
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+}
