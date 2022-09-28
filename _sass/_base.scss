@@ -305,7 +305,14 @@ pre {
 
 /* Preloader animation */
 #preloader {
-  background: #FFFFFF url(/assets/256x256animationFnB.gif) no-repeat center center;
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+}
+
+#preloaderb {
+  background: #FFFFFF no-repeat center center;
   opacity: 0.5;
   height: 100vh;
   width: 100%;
