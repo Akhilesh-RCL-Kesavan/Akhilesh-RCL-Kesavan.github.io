@@ -13,6 +13,10 @@ Gaming
 
 <br>
 
+Presenting spoiler filled thoughts and reviews of most of the games I have played. Proceed with caution
+
+<br>
+
 [Celeste](/gaming/celeste.md)
 -------
 
