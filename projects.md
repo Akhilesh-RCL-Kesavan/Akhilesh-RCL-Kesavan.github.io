@@ -108,6 +108,6 @@ Hobby project
 - Coded a small scale version of the popular game Battle Ships
 - Requires you to place 4 ships by inputing row and column coordinates from 1 to 5
 - After placement fire at the computer's ships by inputing row and column coordinates from 1 to 5
-- Can be downloaded from the [resources](/resources.md) page (Still requires some debugging)
+- Can be downloaded from the [resources](/resources.md) page (still requires some debugging)
 
 <br>
