@@ -305,7 +305,8 @@ pre {
 
 /* Preloader animation */
 #preloader {
-  background-image: url(/assets/256x256animationFnB.gif);
-  background-size: 25%;
-  background-position: right bottom;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  resize: 25%;
 }
