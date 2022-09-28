@@ -93,3 +93,21 @@ Winter internship at <a href="https://genetech.co.in/">GeneTech</a>, Hyderabad
 - Estimated the length of the CGG repeats in the FRM gene by comparing with ladder length during gel electrophoresis
 
 <br>
+
+<hr style="width:50%; margin-left:25%">
+
+<br>
+
+**Battle Ship**
+-----------------
+
+<p style="text-align: justify">
+Hobby project
+<br>
+</p>
+- Coded a small scale version of the popular game Battle Ships
+- Requires you to place 4 ships by inputing row and column coordinates from 1 to 5
+- After placement fire at the computer's ships by inputing row and column coordinates from 1 to 5
+- (Still requires some debugging)
+
+<br>
