@@ -6,7 +6,6 @@
   <body onLoad="javascript:newQuote()">
 
   <div id="preloader"><img src="/assets/256x256animationFnB.gif"></div>
-  <div id="preloaderb"></div>
 
     {% include header.html %}
 
@@ -32,10 +31,8 @@
 
   <script>
     var loader = document.getElementById("preloader");
-    var loaderb = document.getElementById("preloaderb");
     window.addEventListener("load", function(){
       loader.style.display = "none"
-      loaderb.style.display = "none"
     })
   </script>
 
