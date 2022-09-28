@@ -12,3 +12,6 @@ Gaming
 
 
 <br>
+
+[Celeste](/gaming/celeste.md)
+-------
