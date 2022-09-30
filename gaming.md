@@ -28,7 +28,6 @@ Follow the self reflective journey of Madeline, as she climbs mount Celeste and 
 
 <br>
 
-<!---
 <hr style="width:50%; margin-left:25%">
 
 <br>
@@ -238,5 +237,3 @@ Kill. Die. Learn. Repeat
 -------
 
 <br>
-
---->
