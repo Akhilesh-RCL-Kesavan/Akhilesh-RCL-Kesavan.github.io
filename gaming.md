@@ -17,17 +17,26 @@ Presenting spoiler filled thoughts and reviews of most of the games I have playe
 
 <br>
 
-[Celeste](/gaming/celeste.md)
--------
+<hr style="width:50%; margin-left:25%">
 
 <br>
 
+[Celeste](/gaming/celeste.md)
+-------
+
+Follow the self reflective journey of Madeline, as she climbs mount Celeste and discovers its mysteries
+
+<br>
+
+<!---
 <hr style="width:50%; margin-left:25%">
 
 <br>
 
 [Stray](/gaming/stray.md)
 -------
+
+Experience a dystopian cyberpunk future, through the eyes of a tiny outsider trying to find the way back home
 
 <br>
 
@@ -38,6 +47,8 @@ Presenting spoiler filled thoughts and reviews of most of the games I have playe
 [Transistor](/gaming/transistor.md)
 -------
 
+
+
 <br>
 
 <hr style="width:50%; margin-left:25%">
@@ -47,6 +58,8 @@ Presenting spoiler filled thoughts and reviews of most of the games I have playe
 [Hades](/gaming/hades.md)
 -------
 
+Slash, pierce, shoot, block or punch your way out of the underworld, in a pursuit to learn about your family while being helped by your godly relatives
+
 <br>
 
 <hr style="width:50%; margin-left:25%">
@@ -55,6 +68,8 @@ Presenting spoiler filled thoughts and reviews of most of the games I have playe
 
 [Hollow Knight](/gaming/hollowknight.md)
 -------
+
+Delve deep into the melancholic kingdom of Hollownest, learning the tragedy that befell it and hopefully prevent another disaster (**WARNING: CREEPY CRAWLERS**)
 
 <br>
 
@@ -66,14 +81,18 @@ Presenting spoiler filled thoughts and reviews of most of the games I have playe
 [Pyre](/gaming/pyre.md)
 -------
 
+Lead your band of exiles through the rites, a mystical competition (magic rugby IMO) to earn their freedom
+
 <br>
 
 <hr style="width:50%; margin-left:25%">
 
 <br>
 
-[Ori and the Blind Forrest](/gaming/oriandtheblindforrest.md)
+[Ori and the Blind Forest](/gaming/oriandtheblindforest.md)
 -------
+
+The begining to the story of Ori, the last spirit guardian, as they journey through the dying forest of Nibel, to face of against Kuro, the giant owl
 
 <br>
 
@@ -84,6 +103,8 @@ Presenting spoiler filled thoughts and reviews of most of the games I have playe
 [Ori and the Will of the Wisps](/gaming/oriandthewillofthewisps.md)
 -------
 
+The sequel to the adventures of Ori, follow the spirit guardian as they heal the broken land of Niwen, following a untimely crash into the land
+
 <br>
 
 <hr style="width:50%; margin-left:25%">
@@ -93,6 +114,8 @@ Presenting spoiler filled thoughts and reviews of most of the games I have playe
 [Dead Cells](/gaming/deadcells.md)
 -------
 
+Kill. Die. Learn. Repeat
+
 <br>
 
 <hr style="width:50%; margin-left:25%">
@@ -101,6 +124,8 @@ Presenting spoiler filled thoughts and reviews of most of the games I have playe
 
 [Katana Zero](/gaming/katanazero.md)
 -------
+
+
 
 <br>
 
@@ -119,6 +144,8 @@ Presenting spoiler filled thoughts and reviews of most of the games I have playe
 
 [Gunpoint](/gaming/gunpoint.md)
 -------
+
+
 
 <br>
 
@@ -212,6 +239,4 @@ Presenting spoiler filled thoughts and reviews of most of the games I have playe
 
 <br>
 
-<hr style="width:50%; margin-left:25%">
-
-<br>
+--->
