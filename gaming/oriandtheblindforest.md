@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Ori and the Blind Forrest
-permalink: /gaming/oriandtheblindforrest
+title: Ori and the Blind Forest
+permalink: /gaming/oriandtheblindforest
 hide: true
 ---
 <p><br></p>
