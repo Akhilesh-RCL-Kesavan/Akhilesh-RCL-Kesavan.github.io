@@ -24,8 +24,16 @@ Presenting spoiler filled thoughts and reviews of most of the games I have playe
 [Celeste](/gaming/celeste.md)
 -------
 
-Follow the self reflective journey of Madeline, as she climbs mount Celeste and discovers its mysteries
+Celeste is an indie precision platformer, with easy to pick up, hard to master controls. You play as Madeline, as she challenges herself to conquer Mount Celeste, to find inspiration in life, while braving her own problems and the perils of climbing a mystical mountain.
 
+With just 3 basic movements: Jumping, Wall Climbing and Dashing, Celeste offers a surprisingly large variety of paths to navigate through its tight platforming as a result of its amazing game physics. Keeping things fresh, each chapter offers a new theme with unique mechanics, obstacles, emotions and a fitting soundtrack.
+
+For the more experienced players seeking a tougher challenge, Celeste offers collectable crystal hearts, cassettes to unlock brutal B sides, and C sides for 8 chapters, a kind of sequel in chapter 9, and a whooping 202 strawberries to impress your friends (P.S. I have developed an immense fondness of strawberries due to this game).
+
+As a whole Celeste is an amazing wholesome experience, with great design, simple graphics, and a real source of introspection and philosophy. I highly recommend the game and believe is a must play.
+
+
+<!--
 <br>
 
 <hr style="width:50%; margin-left:25%">
@@ -237,3 +245,4 @@ Kill. Die. Learn. Repeat
 -------
 
 <br>
+-->
