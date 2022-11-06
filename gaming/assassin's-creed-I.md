@@ -15,9 +15,8 @@ Assassin's Creed I
 
 **Summary**
 --------
-la shay' mutlaq bal alkulu mumkin
 
-"Laa shay'a waqi'un moutlaq bale kouloun moumkine" - The Assassin's Creed. Done. Finished. That's the Assassin's Creed. Game Over.
+"Laa shay'a waqi'un moutlaq bale kouloun moumkine" - The Assassin's Creed
 
 Assassin's Creed is a open world "stealth" action adventure game. Set in 1191, you relive the memories of the Levantine assassin,  Altaïr Ibn-La'Ahad. Follow his humbling journey as a novice relearning the ways of the brotherhood and reinventing the order for generations to come all in a quest to establish peace during The Third Crusade.
 
