@@ -46,6 +46,8 @@ Assassin's Creed is a open world "stealth" action adventure game. Set in 1191, y
 Altaïr is equipped with one of the most iconic weapons in all of gaming, the hidden blade (kind of ironic I think) along with small variety of arms, and his special skills of persuasion, deduction and parkour. Using these and your wit research, locate, identify and eliminate your targets by any means necessary (preferably stealthily).
 
 While the game may not (or may have depending on who you ask) aged well since its release in 2007 (15 years as of this writing), Assassin's Creed remains a classic with an innovative method of integrating into real world history, stunning display of the graphics for its time, impressive worldbuilding and a great start for one of the most iconic game franchise ever made.
+
+
 <!--
 <br>
 
