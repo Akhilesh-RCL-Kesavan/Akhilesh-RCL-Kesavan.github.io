@@ -14,9 +14,8 @@
  {
    position:relative;
    margin: 10px;
-   width: 350px;
+   width: 300px;
    min-height: 200px;
-
    border-radius: 20px;
    box-shadow: 0 35px 80px rgba(0,0,0,0.15);
    transition: 0.5s;
@@ -25,7 +24,7 @@
 .card:hover
 {
   height: 600px;
-  width: 600px;
+  width: 900px;
 }
 
 .imgBx
@@ -60,7 +59,7 @@
   height: 100%;
   display: flex;
   justify-content: center;
-  align-items: flex-end;
+  align-items: stretch;
   overflow: hidden;
 }
 
@@ -70,24 +69,24 @@
   text-align: center;
   width: 100%;
   transition: 0.5s;
-  transform: translateY(90%);
+  transform: translateY(70%);
 }
 
 .card:hover .content .details
 {
-  transform: translateY(0);
+  transform: translateY(20%);
 
 }
 
 .card .content .details .data
 {
   display: block;
+  text-align: left;
 }
 
 .card .content .details .actionBtn
 {
-  display: flex;
-  justify-content: space-between;
+
 }
 
 .card .content .details .actionBtn button
