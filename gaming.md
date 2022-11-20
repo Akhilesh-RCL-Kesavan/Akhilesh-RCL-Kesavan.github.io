@@ -43,7 +43,7 @@ Presenting spoiler filled thoughts and reviews of most of the games I have playe
               <br>
             </div>
             <div class="actionBtn">
-              <a href="/gaming/celeste.md">
+              <a href="/gaming/celeste">
                 <button>Read more</button>
               </a>
             </div>
@@ -69,7 +69,7 @@ Presenting spoiler filled thoughts and reviews of most of the games I have playe
               <br>
             </div>
             <div class="actionBtn">
-            <a href="/gaming/assassin's-creed-I.md">
+            <a href="/gaming/assassin's-creed-I">
               <button>Read more</button>
             </a>
             </div>
