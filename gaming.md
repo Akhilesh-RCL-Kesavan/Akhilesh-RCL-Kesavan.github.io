@@ -51,7 +51,7 @@ While the game may not (or may have depending on who you ask) aged well since it
 
 <div class="card">
   <div class="imgBx">
-    <img src="Celeste_box_art.png">
+    <img src="/gaming/boxarts/Celeste_box_art.png">
   </div>
   <div class="content">
     <div class="details">
@@ -74,10 +74,10 @@ While the game may not (or may have depending on who you ask) aged well since it
     </div>
   </div>
 </div>
-
+<br>
 <div class="card">
   <div class="imgBx">
-    <img src="assassin's_creed.webp">
+    <img src="/gaming/boxarts/assassin's_creed.webp">
   </div>
   <div class="content">
     <div class="details">
