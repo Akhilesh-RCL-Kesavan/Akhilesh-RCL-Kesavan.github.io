@@ -23,8 +23,9 @@
 
 .card:hover
 {
-  height: 900px;
+  height: 600px;
   width: 900px;
+  overflow-y: scroll;
 }
 
 .imgBx
