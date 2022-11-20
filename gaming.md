@@ -49,10 +49,9 @@ While the game may not (or may have depending on who you ask) aged well since it
 
 <br>
 
-<!--
 <div class="card">
   <div class="imgBx">
-    <img src="/gaming/boxarts/Celeste_box_art.png">
+    <img src="Celeste_box_art.png">
   </div>
   <div class="content">
     <div class="details">
@@ -71,10 +70,34 @@ While the game may not (or may have depending on who you ask) aged well since it
       <div class="actionBtn">
         <button>Read more</button>
         <button>Steam page</button>
+      </div>
     </div>
   </div>
 </div>
--->
+
+<div class="card">
+  <div class="imgBx">
+    <img src="assassin's_creed.webp">
+  </div>
+  <div class="content">
+    <div class="details">
+      <h2>Assassin's Creed</h2>
+      <br>
+      <div class="data">
+        <p>Assassin's Creed is a open world "stealth" action adventure game. Set in 1191, you relive the memories of the Levantine assassin,  Altaïr Ibn-La'Ahad. Follow his humbling journey as a novice relearning the ways of the brotherhood and reinventing the order for generations to come all in a quest to establish peace during the third crusade.</p>
+        <br>
+        <p>Altaïr is equipped with one of the most iconic weapons in all of gaming, the hidden blade (kind of ironic I think) along with small variety of arms, and his special skills of persuasion, deduction and parkour. Using these and your wit research, locate, identify and eliminate your targets by any means necessary (preferably stealthily).</p>
+        <br>
+        <p>While the game may not (or may have depending on who you ask) aged well since its release in 2007 (15 years as of this writing), Assassin's Creed remains a classic with an innovative method of integrating into real world history, stunning display of the graphics for its time, impressive worldbuilding and a great start for one of the most iconic game franchise ever made.</p>
+        <br>
+      </div>
+      <div class="actionBtn">
+        <button>Read more</button>
+        <button>Steam page</button>
+      </div>
+    </div>
+  </div>
+</div>
 
 <!--
 <br>
