@@ -21,33 +21,6 @@ Presenting spoiler filled thoughts and reviews of most of the games I have playe
 
 <br>
 
-[Celeste](/gaming/celeste.md)
--------
-
-Celeste is an indie precision platformer, with easy to pick up, hard to master controls. You play as Madeline, as she challenges herself to conquer Mount Celeste, to find inspiration in life, while braving her own problems and the perils of climbing a mystical mountain.
-
-With just 3 basic movements: Jumping, Wall Climbing and Dashing, Celeste offers a surprisingly large variety of paths to navigate through its tight platforming as a result of its amazing game physics. Keeping things fresh, each chapter offers a new theme with unique mechanics, obstacles, emotions and a fitting soundtrack.
-
-For the more experienced players seeking a tougher challenge, Celeste offers collectable crystal hearts, cassettes to unlock brutal B sides, and C sides for 8 chapters, a kind of sequel in chapter 9, and a whooping 202 strawberries to impress your friends (P.S. I have developed an immense fondness of strawberries due to this game).
-
-As a whole Celeste is an amazing wholesome experience, with great design, simple graphics, and a real source of introspection and philosophy. I highly recommend the game and believe is a must play.
-
-<br>
-
-<hr style="width:50%; margin-left:25%">
-
-<br>
-
-[Assassin's Creed I](/gaming/assassin's-creed-I.md)
--------
-
-Assassin's Creed is a open world "stealth" action adventure game. Set in 1191, you relive the memories of the Levantine assassin,  Altaïr Ibn-La'Ahad. Follow his humbling journey as a novice relearning the ways of the brotherhood and reinventing the order for generations to come all in a quest to establish peace during the third crusade.
-
-Altaïr is equipped with one of the most iconic weapons in all of gaming, the hidden blade (kind of ironic I think) along with small variety of arms, and his special skills of persuasion, deduction and parkour. Using these and your wit research, locate, identify and eliminate your targets by any means necessary (preferably stealthily).
-
-While the game may not (or may have depending on who you ask) aged well since its release in 2007 (15 years as of this writing), Assassin's Creed remains a classic with an innovative method of integrating into real world history, stunning display of the graphics for its time, impressive worldbuilding and a great start for one of the most iconic game franchise ever made.
-
-<br>
 <table>
   <tr>
     <td>
@@ -70,8 +43,9 @@ While the game may not (or may have depending on who you ask) aged well since it
               <br>
             </div>
             <div class="actionBtn">
-              <button>Read more</button>
-              <button>Steam page</button>
+              <a href="/gaming/celeste.md">
+                <button>Read more</button>
+              </a>
             </div>
           </div>
         </div>
@@ -95,8 +69,9 @@ While the game may not (or may have depending on who you ask) aged well since it
               <br>
             </div>
             <div class="actionBtn">
+            <a href="/gaming/assassin's-creed-I.md">
               <button>Read more</button>
-              <button>Steam page</button>
+            </a>
             </div>
           </div>
         </div>
