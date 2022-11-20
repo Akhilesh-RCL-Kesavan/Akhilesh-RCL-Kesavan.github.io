@@ -48,7 +48,7 @@ Altaïr is equipped with one of the most iconic weapons in all of gaming, the hi
 While the game may not (or may have depending on who you ask) aged well since its release in 2007 (15 years as of this writing), Assassin's Creed remains a classic with an innovative method of integrating into real world history, stunning display of the graphics for its time, impressive worldbuilding and a great start for one of the most iconic game franchise ever made.
 
 <br>
-
+<!---
 <div class="card">
   <div class="imgBx">
     <img src="/gaming/boxarts/Celeste_box_art.png">
@@ -73,7 +73,7 @@ While the game may not (or may have depending on who you ask) aged well since it
     </div>
   </div>
 </div>
-
+--->
 <!--
 <br>
 
